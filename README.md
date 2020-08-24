@@ -72,7 +72,7 @@ We use [git](http://git.org/) for versioning. For the versions available, see th
 
 ## Authors
 
-* **Amit Tailor** - *Initial work* - (https://github.com/the1amit)
+* **Amit Tailor** - *Initial work* - (https://github.com/theamit)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
